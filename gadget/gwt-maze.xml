@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="GWT Maze" />
+  <Content type="html">
+     <![CDATA[ 
+	<head>
+		<title>GWT Maze</title>
+		<link type="text/css" rel="stylesheet" href="GwtMaze.css">
+	</head>
+	<body>
+		<script type="text/javascript" language="javascript" src="gwtmaze.nocache.js"></script>
+		<div id="control"></div>
+		<div id="maze"></div>
+	</body>
+     ]]>
+  </Content>
+</Module>

@@ -1,0 +1,90 @@
+#debug {
+	margin: 0;
+	color: red;
+}
+
+.gwt-TextBox {
+	width: 4em;
+}
+
+.table-maze-widget {
+	margin: 1em;
+	border-spacing: 0;
+	/*border-collapse:collapse; */
+}
+
+.table-maze-widget td {
+	width: 2ex;
+	height: 2ex; 
+}
+
+.table-maze-widget td {
+	border: 0.25ex solid black;	
+	text-align: center;
+}
+
+.table-maze-widget .cNESW {
+}
+.table-maze-widget .cESW {
+	border-top-style:    hidden; 
+}
+.table-maze-widget .cNSW {
+	border-right-style:  hidden; 
+}
+.table-maze-widget .cSW {
+	border-top-style:    hidden; 
+	border-right-style:  hidden; 
+}
+.table-maze-widget .cNEW {
+	border-bottom-style: hidden; 
+}
+.table-maze-widget .cEW {
+	border-top-style:    hidden; 
+	border-bottom-style: hidden; 
+}
+.table-maze-widget .cNW {
+	border-right-style:  hidden; 
+	border-bottom-style: hidden; 
+}
+.table-maze-widget .cW {
+	border-top-style:    hidden; 
+	border-right-style:  hidden; 
+	border-bottom-style: hidden; 
+}
+
+.table-maze-widget .cNES {
+	border-left-style:   hidden; 
+}
+.table-maze-widget .cES {
+	border-top-style:    hidden; 
+	border-left-style:   hidden; 
+}
+.table-maze-widget .cNS {
+	border-right-style:  hidden; 
+	border-left-style:   hidden; 
+}
+.table-maze-widget .cS {
+	border-top-style:    hidden; 
+	border-right-style:  hidden; 
+	border-left-style:   hidden; 
+}
+.table-maze-widget .cNE {
+	border-bottom-style: hidden; 
+	border-left-style:   hidden; 
+}
+.table-maze-widget .cE {
+	border-top-style:    hidden; 
+	border-bottom-style: hidden; 
+	border-left-style:   hidden; 
+}
+.table-maze-widget .cN {
+	border-right-style:  hidden; 
+	border-bottom-style: hidden; 
+	border-left-style:   hidden; 
+}
+.table-maze-widget .c {
+	border-top-style:    hidden; 
+	border-right-style:  hidden; 
+	border-bottom-style: hidden; 
+	border-left-style:   hidden; 
+}
