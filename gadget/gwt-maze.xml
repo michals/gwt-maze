@@ -8,7 +8,7 @@
 		<link type="text/css" rel="stylesheet" href="GwtMaze.css">
 	</head>
 	<body>
-		<script type="text/javascript" language="javascript" src="gwtmaze.nocache.js"></script>
+		<script type="text/javascript" language="javascript" src="http://gwt-maze.googlecode.com/svn/trunk/gadget/gwtmaze.nocache.js"></script>
 		<div id="control"></div>
 		<div id="maze"></div>
 	</body>
